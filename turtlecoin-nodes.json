@@ -50,6 +50,20 @@
       "cache": false
     },
     {
+      "name": "BicycleBoi - US East - TRTLnode",
+      "url": "",
+      "port": ,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "BicycleBoi - US East - TRTLnode - SSL",
+      "url": "",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "BlackMulch - US East",
       "url": "TRTLnode.ddns.net",
       "port": 11898,
